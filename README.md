@@ -1,8 +1,8 @@
-a for Repo trying to identify a potential bug in Phoenix
+I Repo for trying to identify a potential (not a bug!) bug in Phoenix
 
 ---
 
-I believe this commit introduced a bug around generating a new Phoenix application: https://github.com/phoenixframework/phoenix/commit/1ec8f3bce5d3caec1dddac6590e99ab506c6d998
+I thought (wrong!) this commit introduced a bug around generating a new Phoenix application: https://github.com/phoenixframework/phoenix/commit/1ec8f3bce5d3caec1dddac6590e99ab506c6d998
 
 I followed these steps to create the repos in this Repo:
 ```
